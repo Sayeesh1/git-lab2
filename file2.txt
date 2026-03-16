@@ -5,5 +5,3 @@ vvce11
 Hi
 vvce
 vvce
-th
-feature1
